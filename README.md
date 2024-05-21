@@ -19,7 +19,7 @@ Certifications: PG Certificate in Business Analytics for Strategic Decision Maki
 
 - 👀 I’m interested in Business Analytics/Data Analytics
 - 🌱 I’m currently learning Machine Learning models and Generative AI
-- 📫 How to reach me - email - rocksonsingh1997@gmail.com
+- 📫 How to reach me - email - shashwat.singh.1797@gmail.com
 
 <!---
 Shash1705/Shash1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
