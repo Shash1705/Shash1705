@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Shash1705 
-- 🌟 Dedicated Professional specializing in Business Analytics and Data Analytics | Advocate for Social Impact | MBA in Finance and Marketing |
+👋 Hi, I’m @Shash1705 
+🌟 Dedicated Professional specializing in Business Analytics and Data Analytics | Advocate for Social Impact | MBA in Finance and Marketing |
 🌱 Current Focus:
 Embarking on an exciting journey of skill enhancement, I've recently completed a PG Certificate course in Business Analytics.
 My aim is to harness data-driven insights for impactful decision-making.
